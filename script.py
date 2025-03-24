@@ -36,3 +36,5 @@ def calculator():
             print("Invalid choice. Please select a valid operation.")
 
 calculator()
+print("Calculator ran successfully!")
+
